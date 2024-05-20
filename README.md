@@ -28,7 +28,6 @@ Multiplicacao_Simples
 │ └── MultiplicacaoSimples.java
 └── README.md
 
-
 ## Requisitos
 
 - **Java Development Kit (JDK)**: Versão 21 ou superior
@@ -49,18 +48,18 @@ java -cp bin MultiplicacaoSimples.MultiplicacaoSimples
 
 Uso
 
-    Insira o primeiro número no campo "Primeiro número".
-    Insira o segundo número no campo "Segundo número".
-    Clique no botão "Calcular".
-    O resultado do produto dos dois números será exibido abaixo do botão.
+Insira o primeiro número no campo "Primeiro número".
+Insira o segundo número no campo "Segundo número".
+Clique no botão "Calcular".
+O resultado do produto dos dois números será exibido abaixo do botão.
 
 Contribuição
 
 Se você quiser contribuir para este projeto, siga os passos abaixo:
 
-    Faça um fork do repositório.
+Faça um fork do repositório.
 
-    Crie uma nova branch:
+Crie uma nova branch:
 
 git checkout -b minha-feature
 
@@ -68,7 +67,7 @@ git commit -m "Adicionar minha feature"
 
 git push origin minha-feature
 
-    Abra um pull request.
+Abra um pull request.
 
 Licença
 
@@ -77,5 +76,5 @@ Contato
 
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
 
-    Nome: Izairton O de Vasconcelos
-    Email: iovascon@gmail.com
+Nome: Izairton O de Vasconcelos
+Email:iovascon@gmail.com
