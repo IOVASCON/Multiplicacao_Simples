@@ -1,6 +1,6 @@
 # MultiplicacaoSimples
 
-## Descrição
+## Descrição do projeto
 
 `MultiplicacaoSimples` é um aplicativo Java simples que permite ao usuário inserir dois números inteiros e calcular o produto desses números. O aplicativo possui uma interface gráfica amigável criada com a biblioteca Swing. Santander 2024 - Backend com Java na plataforma DIO
 
