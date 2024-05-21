@@ -28,7 +28,6 @@ Multiplicacao_Simples
 │ └── MultiplicacaoSimples.java
 └── README.md
 
-
 ## Requisitos
 
 - **Java Development Kit (JDK)**: Versão 21 ou superior
