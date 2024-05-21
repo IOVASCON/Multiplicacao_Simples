@@ -14,4 +14,3 @@
 ## Estrutura do Projeto
 
 A estrutura do projeto é a seguinte:
-
